@@ -1,0 +1,23 @@
+
+.login{	
+	
+	border:thick solid red;
+	padding: 15px 20px;
+	text-decoration:none;
+	background-color:yellow;
+	display:inline-block;
+}
+.signup{	
+	color:white;
+	background-color:blue;
+	padding: 15px 20px;
+	text-decoration:none;
+	border:thick solid red;
+	display:inline-block;
+	
+}
+a{
+	color:white;
+	font-size: 30px;
+	text-decoration:none;
+}
